@@ -1,2 +1,4 @@
 # QuantumMechanics
-Proyectos de mecánica cuántica
+Quantum mechanics projects from undergraduate school
+
+Professor: Julio César Gutiérrez Vega (https://homepages.mty.itesm.mx/jgutierr/)
